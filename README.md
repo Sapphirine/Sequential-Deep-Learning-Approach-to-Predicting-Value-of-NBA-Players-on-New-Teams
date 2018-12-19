@@ -1,1 +1,1 @@
-# Sequential-Modelling-Approach-to-Predicting-Value-of-NBA-Players-on-New-Teams
+# Sequential-Deep-Learning-Approach-to-Predicting-Value-of-NBA-Players-on-New-Teams
